@@ -39,8 +39,8 @@
 				<version>3.8.0</version>
 				<configuration>
 					<!-- http://maven.apache.org/plugins/maven-compiler-plugin/ -->
-					<source>10</source>
-					<target>10</target>
+					<source>1.8</source>
+					<target>1.8</target>
 				</configuration>
 			</plugin>
 		</plugins>
